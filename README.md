@@ -1,7 +1,7 @@
 ## Introduction to the task: 'Streaming video from raspberryPi to computer'
 
 We're going to stream the video of the picam to our desktop computer, reason for this is to speed up processing with opencv. If you try processing with opencv on the raspberryPi you will see a decrease in framerate. Low framerate makes object tracking and people counting hard.  
-Server and client side code was taken from a project written by `zhengwang` which involves selfdriving cars.
+Server and client side code was taken from a project involving selfdriving cars written by `zhengwang`.
 
 ## Basic setup
 
