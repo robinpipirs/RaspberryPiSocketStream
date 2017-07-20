@@ -111,3 +111,10 @@ class ThreadServer(object):
 if __name__ == '__main__':
     ThreadServer()
 ```
+
+## Result
+
+If you have configured the ports etc. right then on your server side you should see a video stream.
+
+![png](camera_socket_stream.png)
+
